@@ -1,0 +1,1 @@
+{"name":"Local: c1","url":"/mnt/d/learn/_codes/c-lang/src/c1.detab.c","tests":[{"id":1702924774639,"input":"abc cd  ssad\nd   y    ii","output":"abc1cd2ssad\nd3y4ii"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/d/learn/_codes/c-lang/src/c1.detab.c","group":"local","local":true}

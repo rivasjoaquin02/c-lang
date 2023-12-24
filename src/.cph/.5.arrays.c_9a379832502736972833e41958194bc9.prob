@@ -1,0 +1,1 @@
+{"name":"Local: 5","url":"/mnt/d/learn/_codes/c-lang/src/5.arrays.c","tests":[{"id":1702750966176,"input":"1 sdfsf 3232234sddfg 3","output":"digits = 0 1 3 4 1 0 0 0 0 0, white space = 3, other = 10\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/d/learn/_codes/c-lang/src/5.arrays.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"d:\\learn\\_codes\\c-lang\\src\\3.2.switch.c","tests":[{"id":1703186367434,"input":"sddsdf   23235","output":"digits = 0 0 2 2 0 1 0 0 0 0, white_space = 3, other = 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\learn\\_codes\\c-lang\\src\\3.2.switch.c","group":"local","local":true}

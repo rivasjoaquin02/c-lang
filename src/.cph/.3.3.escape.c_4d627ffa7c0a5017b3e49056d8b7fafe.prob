@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"d:\\learn\\_codes\\c-lang\\src\\3.3.escape.c","tests":[{"id":1703186858728,"input":"es una\nlinea","output":"es una\\nlinea"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\learn\\_codes\\c-lang\\src\\3.3.escape.c","group":"local","local":true}

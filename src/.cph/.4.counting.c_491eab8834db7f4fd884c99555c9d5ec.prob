@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"/mnt/d/learn/_codes/c-lang/src/4.counting.c","tests":[{"id":1702735992092,"input":"a b c\nd  e  fg","output":"a b c\nd e fg\n\nchars: 14 \nlines: 1 \nblanks: 6 \ntabs: 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/d/learn/_codes/c-lang/src/4.counting.c","group":"local","local":true}
