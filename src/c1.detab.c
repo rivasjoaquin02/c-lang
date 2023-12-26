@@ -19,8 +19,7 @@ int main(void) {
 int get_line(char line[], int maxlength) {
     int c, i;
 
-    for (i = 0; i < maxlength && (c = getchar()) != EOF; ++i)
-        line[i] = c;
+    for (i = 0; i < maxlength && (c = getchar()) != EOF; ++i) line[i] = c;
 
     line[i] = END;
 
@@ -36,8 +35,7 @@ void replace_blanks(char line[]) {
         c = line[i];
 
         if (c != ' ') {
-            if (lastc == ' ') 
-                line[p++] = '0' + space_count;
+            if (lastc == ' ') line[p++] = '0' + space_count;
             line[p++] = c;
             space_count = 0;
         } else {
